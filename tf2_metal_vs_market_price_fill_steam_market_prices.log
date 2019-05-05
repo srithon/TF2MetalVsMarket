@@ -1,0 +1,705 @@
+14:43:31 INFO:root_logger	Starting script...
+14:43:42 INFO:root_logger	63.249.67.70:53281
+14:43:42 INFO:root_logger	24.248.207.7:53281
+14:43:42 INFO:root_logger	45.76.63.153:8118
+14:43:42 INFO:root_logger	157.230.58.241:3128
+14:43:42 INFO:root_logger	167.99.226.187:3128
+14:43:42 INFO:root_logger	98.172.142.99:8080
+14:43:42 INFO:root_logger	74.213.63.78:45858
+14:43:42 INFO:root_logger	134.209.175.199:3128
+14:43:42 INFO:root_logger	35.246.148.167:80
+14:43:42 INFO:root_logger	32.115.161.78:44042
+14:43:42 INFO:root_logger	54.176.202.142:80
+14:43:42 INFO:root_logger	159.65.164.58:80
+14:43:42 INFO:root_logger	198.143.183.78:443
+14:43:42 INFO:root_logger	162.144.220.192:80
+14:43:43 INFO:root_logger	Time passed - 0.0
+14:43:43 INFO:root_logger	Counter = 0
+14:44:36 INFO:root_logger	Starting script...
+14:44:46 INFO:root_logger	63.249.67.70:53281
+14:44:46 INFO:root_logger	24.248.207.7:53281
+14:44:46 INFO:root_logger	45.76.63.153:8118
+14:44:46 INFO:root_logger	157.230.58.241:3128
+14:44:46 INFO:root_logger	167.99.226.187:3128
+14:44:46 INFO:root_logger	98.172.142.99:8080
+14:44:46 INFO:root_logger	74.213.63.78:45858
+14:44:46 INFO:root_logger	134.209.175.199:3128
+14:44:46 INFO:root_logger	35.246.148.167:80
+14:44:46 INFO:root_logger	32.115.161.78:44042
+14:44:46 INFO:root_logger	54.176.202.142:80
+14:44:46 INFO:root_logger	159.65.164.58:80
+14:44:46 INFO:root_logger	198.143.183.78:443
+14:44:46 INFO:root_logger	162.144.220.192:80
+14:44:56 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Server Error',)))
+14:45:05 ERROR:root_logger	'lowest_price'
+14:45:05 ERROR:root_logger	Gave up on Mann Co. Supply Crate #43
+14:45:09 ERROR:root_logger	'lowest_price'
+14:45:09 ERROR:root_logger	Gave up on Mann Co. Supply Crate #49
+14:45:14 ERROR:root_logger	'lowest_price'
+14:45:14 ERROR:root_logger	Gave up on Mann Co. Supply Crate #54
+14:45:18 ERROR:root_logger	'lowest_price'
+14:45:18 ERROR:root_logger	Gave up on Mann Co. Supply Munition #84
+14:45:22 ERROR:root_logger	'lowest_price'
+14:45:22 ERROR:root_logger	Gave up on Mann Co. Supply Munition #85
+14:45:27 ERROR:root_logger	'lowest_price'
+14:45:27 ERROR:root_logger	Gave up on Mann Co. Supply Munition #90
+14:45:31 ERROR:root_logger	'lowest_price'
+14:45:31 ERROR:root_logger	Gave up on Mann Co. Supply Munition #91
+14:45:35 ERROR:root_logger	'lowest_price'
+14:45:35 ERROR:root_logger	Gave up on Mann Co. Supply Munition #92
+14:45:39 ERROR:root_logger	'lowest_price'
+14:45:39 ERROR:root_logger	Gave up on Naughty Winter Crate 2014 #88
+14:45:43 ERROR:root_logger	'lowest_price'
+14:45:43 ERROR:root_logger	1054 (42S22): Unknown column 'TimeUpdated' in 'field list'
+14:45:48 INFO:root_logger	Time passed - 61.54636096954346
+14:45:48 INFO:root_logger	Time passed - 61.54636096954346
+14:45:48 INFO:root_logger	Counter = 0
+14:48:07 INFO:root_logger	Starting script...
+14:48:16 INFO:root_logger	63.249.67.70:53281
+14:48:17 INFO:root_logger	24.248.207.7:53281
+14:48:17 INFO:root_logger	45.76.63.153:8118
+14:48:17 INFO:root_logger	157.230.58.241:3128
+14:48:17 INFO:root_logger	167.99.226.187:3128
+14:48:17 INFO:root_logger	98.172.142.99:8080
+14:48:17 INFO:root_logger	74.213.63.78:45858
+14:48:17 INFO:root_logger	134.209.175.199:3128
+14:48:17 INFO:root_logger	35.246.148.167:80
+14:48:17 INFO:root_logger	32.115.161.78:44042
+14:48:17 INFO:root_logger	54.176.202.142:80
+14:48:17 INFO:root_logger	159.65.164.58:80
+14:48:17 INFO:root_logger	198.143.183.78:443
+14:48:17 INFO:root_logger	162.144.220.192:80
+14:48:19 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))
+14:48:29 ERROR:root_logger	'lowest_price'
+14:48:29 ERROR:root_logger	Gave up on Mann Co. Supply Crate #43
+14:48:33 ERROR:root_logger	'lowest_price'
+14:48:33 ERROR:root_logger	Gave up on Mann Co. Supply Crate #49
+14:48:36 ERROR:root_logger	'lowest_price'
+14:48:36 ERROR:root_logger	Gave up on Mann Co. Supply Crate #54
+14:48:40 ERROR:root_logger	'lowest_price'
+14:48:40 ERROR:root_logger	Gave up on Mann Co. Supply Munition #84
+14:48:44 ERROR:root_logger	'lowest_price'
+14:48:44 ERROR:root_logger	Gave up on Mann Co. Supply Munition #85
+14:48:47 ERROR:root_logger	'lowest_price'
+14:48:47 ERROR:root_logger	Gave up on Mann Co. Supply Munition #90
+14:48:56 ERROR:root_logger	'lowest_price'
+14:48:56 ERROR:root_logger	Gave up on Mann Co. Supply Munition #91
+14:49:00 ERROR:root_logger	'lowest_price'
+14:49:00 ERROR:root_logger	Gave up on Mann Co. Supply Munition #92
+14:49:04 ERROR:root_logger	'lowest_price'
+14:49:04 ERROR:root_logger	Gave up on Naughty Winter Crate 2014 #88
+14:49:08 ERROR:root_logger	'lowest_price'
+14:49:12 ERROR:root_logger	'lowest_price'
+14:49:12 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+14:49:16 ERROR:root_logger	'lowest_price'
+14:49:16 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+14:49:20 ERROR:root_logger	'lowest_price'
+14:49:20 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+14:49:23 ERROR:root_logger	'lowest_price'
+14:49:23 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+14:49:26 DEBUG:root_logger	Failed to get response. Retrying. item = End of the Line Community Crate #87
+14:49:30 ERROR:root_logger	'lowest_price'
+14:49:30 ERROR:root_logger	Gave up on End of the Line Community Crate #87
+14:49:33 ERROR:root_logger	'lowest_price'
+14:49:33 ERROR:root_logger	Gave up on Fall 2013 Acorns Crate #72
+14:49:37 ERROR:root_logger	'lowest_price'
+14:49:37 ERROR:root_logger	Gave up on Limited Late Summer Crate #86
+14:49:41 ERROR:root_logger	'lowest_price'
+14:49:41 ERROR:root_logger	Gave up on Mann Co. Supply Crate #77
+14:49:45 ERROR:root_logger	'lowest_price'
+14:49:49 ERROR:root_logger	'lowest_price'
+14:49:49 ERROR:root_logger	Gave up on Nice Winter Crate 2013 #79
+14:49:53 ERROR:root_logger	'lowest_price'
+14:49:53 ERROR:root_logger	Gave up on Nice Winter Crate 2014 #89
+14:49:56 ERROR:root_logger	'lowest_price'
+14:50:00 ERROR:root_logger	'lowest_price'
+14:50:04 ERROR:root_logger	'lowest_price'
+14:50:08 ERROR:root_logger	'lowest_price'
+14:50:08 ERROR:root_logger	Gave up on Mann Co. Supply Crate #76
+14:50:11 ERROR:root_logger	'lowest_price'
+14:50:11 ERROR:root_logger	Gave up on Mann Co. Supply Munition #82
+14:50:16 ERROR:root_logger	'lowest_price'
+14:50:16 ERROR:root_logger	Gave up on Naughty Winter Crate 2013 #78
+14:50:26 ERROR:root_logger	'lowest_price'
+14:50:30 ERROR:root_logger	'lowest_price'
+14:50:30 ERROR:root_logger	Gave up on Air Strike
+14:50:34 ERROR:root_logger	'lowest_price'
+14:50:34 ERROR:root_logger	Gave up on Ali Baba's Wee Booties
+14:50:37 ERROR:root_logger	'lowest_price'
+14:50:37 ERROR:root_logger	Gave up on Amputator
+14:50:41 ERROR:root_logger	'lowest_price'
+14:50:41 ERROR:root_logger	Gave up on Atomizer
+14:50:45 ERROR:root_logger	'lowest_price'
+14:50:45 ERROR:root_logger	Gave up on B.A.S.E. Jumper
+14:50:49 ERROR:root_logger	'lowest_price'
+14:50:49 ERROR:root_logger	Gave up on Back Scatter
+14:50:53 ERROR:root_logger	'lowest_price'
+14:50:53 ERROR:root_logger	Gave up on Backburner
+14:50:56 ERROR:root_logger	'lowest_price'
+14:50:56 ERROR:root_logger	Gave up on Battalion's Backup
+14:51:00 ERROR:root_logger	'lowest_price'
+14:51:00 ERROR:root_logger	Gave up on Bazaar Bargain
+14:51:04 ERROR:root_logger	'lowest_price'
+14:51:04 ERROR:root_logger	Gave up on Big Earner
+14:51:08 ERROR:root_logger	'lowest_price'
+14:51:08 ERROR:root_logger	Gave up on Blue Summer 2013 Cooler #67
+14:51:11 ERROR:root_logger	'lowest_price'
+14:51:11 ERROR:root_logger	Gave up on Blutsauger
+14:51:15 ERROR:root_logger	'lowest_price'
+14:51:15 ERROR:root_logger	Gave up on Bootlegger
+14:51:19 ERROR:root_logger	'lowest_price'
+14:51:19 ERROR:root_logger	Gave up on Brass Beast
+14:51:23 ERROR:root_logger	'lowest_price'
+14:51:23 ERROR:root_logger	Gave up on Brown Summer 2013 Cooler #68
+14:51:26 ERROR:root_logger	'lowest_price'
+14:51:26 ERROR:root_logger	Gave up on Buff Banner
+14:51:30 ERROR:root_logger	'lowest_price'
+14:51:30 ERROR:root_logger	Gave up on Buffalo Steak Sandvich
+14:51:34 ERROR:root_logger	'lowest_price'
+14:51:34 ERROR:root_logger	Gave up on Candy Cane
+14:51:37 ERROR:root_logger	'lowest_price'
+14:51:37 ERROR:root_logger	Gave up on Chargin' Targe
+14:51:42 ERROR:root_logger	'lowest_price'
+14:51:42 ERROR:root_logger	Gave up on Claidheamh Mòr
+14:51:46 ERROR:root_logger	'lowest_price'
+14:51:46 ERROR:root_logger	Gave up on Classic
+14:51:49 ERROR:root_logger	'lowest_price'
+14:51:49 ERROR:root_logger	Gave up on Cleaner's Carbine
+14:51:53 ERROR:root_logger	'lowest_price'
+14:51:53 ERROR:root_logger	Gave up on Cloak and Dagger
+14:51:57 ERROR:root_logger	'lowest_price'
+14:51:57 ERROR:root_logger	Gave up on Concheror
+14:52:01 ERROR:root_logger	'lowest_price'
+14:52:01 ERROR:root_logger	Gave up on Cow Mangler 5000
+14:52:04 ERROR:root_logger	'lowest_price'
+14:52:04 ERROR:root_logger	Gave up on Cozy Camper
+14:52:08 ERROR:root_logger	'lowest_price'
+14:52:08 ERROR:root_logger	Gave up on Crusader's Crossbow
+14:52:12 ERROR:root_logger	'lowest_price'
+14:52:12 ERROR:root_logger	Gave up on Dalokohs Bar
+14:52:16 ERROR:root_logger	'lowest_price'
+14:52:16 ERROR:root_logger	Gave up on Darwin's Danger Shield
+14:52:19 ERROR:root_logger	'lowest_price'
+14:52:19 ERROR:root_logger	Gave up on Dead Ringer
+14:52:23 ERROR:root_logger	'lowest_price'
+14:52:23 ERROR:root_logger	Gave up on Degreaser
+14:52:27 ERROR:root_logger	'lowest_price'
+14:52:27 ERROR:root_logger	Gave up on Detonator
+14:52:31 ERROR:root_logger	'lowest_price'
+14:52:31 ERROR:root_logger	Gave up on Diamondback
+14:52:34 ERROR:root_logger	'lowest_price'
+14:52:34 ERROR:root_logger	Gave up on Direct Hit
+14:52:38 ERROR:root_logger	'lowest_price'
+14:52:38 ERROR:root_logger	Gave up on Disciplinary Action
+14:52:42 ERROR:root_logger	'lowest_price'
+14:52:42 ERROR:root_logger	Gave up on Escape Plan
+14:52:45 ERROR:root_logger	'lowest_price'
+14:52:45 ERROR:root_logger	Gave up on Eureka Effect
+14:52:49 ERROR:root_logger	'lowest_price'
+14:52:49 ERROR:root_logger	Gave up on Eviction Notice
+14:52:53 ERROR:root_logger	'lowest_price'
+14:52:53 ERROR:root_logger	Gave up on Eyelander
+14:52:57 ERROR:root_logger	'lowest_price'
+14:52:57 ERROR:root_logger	Gave up on Fall 2013 Gourd Crate #73
+14:53:01 ERROR:root_logger	'lowest_price'
+14:53:01 ERROR:root_logger	Gave up on Family Business
+14:53:02 INFO:root_logger	Time passed - 282.90678191185
+14:53:02 INFO:root_logger	Time passed - 282.90678191185
+14:53:02 INFO:root_logger	Counter = 7
+15:04:26 INFO:root_logger	Starting script...
+15:04:36 INFO:root_logger	63.249.67.70:53281
+15:04:36 INFO:root_logger	24.248.207.7:53281
+15:04:36 INFO:root_logger	45.76.63.153:8118
+15:04:36 INFO:root_logger	157.230.58.241:3128
+15:04:36 INFO:root_logger	167.99.226.187:3128
+15:04:36 INFO:root_logger	52.13.171.28:80
+15:04:36 INFO:root_logger	23.92.29.141:80
+15:04:36 INFO:root_logger	98.172.142.99:8080
+15:04:36 INFO:root_logger	74.213.63.78:45858
+15:04:36 INFO:root_logger	134.209.175.199:3128
+15:04:36 INFO:root_logger	35.246.148.167:80
+15:04:36 INFO:root_logger	54.176.202.142:80
+15:04:36 INFO:root_logger	32.115.161.78:44042
+15:04:36 INFO:root_logger	198.143.183.78:443
+15:04:36 INFO:root_logger	159.65.164.58:80
+15:04:36 INFO:root_logger	162.144.220.192:80
+15:04:42 ERROR:root_logger	'lowest_price'
+15:04:42 ERROR:root_logger	Gave up on Mann Co. Supply Crate #43
+15:04:46 ERROR:root_logger	'lowest_price'
+15:04:46 ERROR:root_logger	Gave up on Mann Co. Supply Crate #49
+15:04:50 ERROR:root_logger	'lowest_price'
+15:04:50 ERROR:root_logger	Gave up on Mann Co. Supply Crate #54
+15:04:53 ERROR:root_logger	'lowest_price'
+15:04:53 ERROR:root_logger	Gave up on Mann Co. Supply Munition #84
+15:04:57 ERROR:root_logger	'lowest_price'
+15:04:57 ERROR:root_logger	Gave up on Mann Co. Supply Munition #85
+15:05:01 ERROR:root_logger	'lowest_price'
+15:05:01 ERROR:root_logger	Gave up on Mann Co. Supply Munition #90
+15:05:04 ERROR:root_logger	'lowest_price'
+15:05:04 ERROR:root_logger	Gave up on Mann Co. Supply Munition #91
+15:05:08 ERROR:root_logger	'lowest_price'
+15:05:08 ERROR:root_logger	Gave up on Mann Co. Supply Munition #92
+15:05:12 ERROR:root_logger	'lowest_price'
+15:05:12 ERROR:root_logger	Gave up on Naughty Winter Crate 2014 #88
+15:05:16 ERROR:root_logger	'lowest_price'
+15:05:16 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:20 ERROR:root_logger	'lowest_price'
+15:05:20 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:23 ERROR:root_logger	'lowest_price'
+15:05:23 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:27 ERROR:root_logger	'lowest_price'
+15:05:27 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:31 ERROR:root_logger	'lowest_price'
+15:05:31 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:34 ERROR:root_logger	'lowest_price'
+15:05:34 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:38 ERROR:root_logger	'lowest_price'
+15:05:38 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:42 ERROR:root_logger	'lowest_price'
+15:05:42 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:46 ERROR:root_logger	'lowest_price'
+15:05:46 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:50 ERROR:root_logger	'lowest_price'
+15:05:50 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:54 ERROR:root_logger	'lowest_price'
+15:05:54 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '164 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:05:56 DEBUG:root_logger	Failed to get response. Retrying. item = End of the Line Community Crate #87
+15:06:00 ERROR:root_logger	'lowest_price'
+15:06:00 ERROR:root_logger	Gave up on End of the Line Community Crate #87
+15:06:04 ERROR:root_logger	'lowest_price'
+15:06:04 ERROR:root_logger	Gave up on Fall 2013 Acorns Crate #72
+15:06:09 ERROR:root_logger	'lowest_price'
+15:06:09 ERROR:root_logger	Gave up on Limited Late Summer Crate #86
+15:06:13 ERROR:root_logger	'lowest_price'
+15:06:13 ERROR:root_logger	Gave up on Mann Co. Supply Crate #77
+15:06:17 ERROR:root_logger	'lowest_price'
+15:06:17 ERROR:root_logger	Gave up on Nice Winter Crate 2013 #79
+15:06:20 ERROR:root_logger	'lowest_price'
+15:06:20 ERROR:root_logger	Gave up on Nice Winter Crate 2014 #89
+15:06:25 ERROR:root_logger	'lowest_price'
+15:06:25 ERROR:root_logger	Gave up on Mann Co. Supply Crate #76
+15:06:29 ERROR:root_logger	'lowest_price'
+15:06:29 ERROR:root_logger	Gave up on Mann Co. Supply Munition #82
+15:06:33 ERROR:root_logger	'lowest_price'
+15:06:33 ERROR:root_logger	Gave up on Naughty Winter Crate 2013 #78
+15:06:37 ERROR:root_logger	'lowest_price'
+15:06:37 ERROR:root_logger	Gave up on Blue Summer 2013 Cooler #67
+15:06:41 ERROR:root_logger	'lowest_price'
+15:06:41 ERROR:root_logger	Gave up on Brown Summer 2013 Cooler #68
+15:06:45 ERROR:root_logger	'lowest_price'
+15:06:45 ERROR:root_logger	Gave up on Fall 2013 Gourd Crate #73
+15:06:49 ERROR:root_logger	'lowest_price'
+15:06:49 ERROR:root_logger	Gave up on Green Summer 2013 Cooler #65
+15:06:52 ERROR:root_logger	'lowest_price'
+15:06:52 ERROR:root_logger	Gave up on Mann Co. Strongbox #81
+15:06:56 ERROR:root_logger	'lowest_price'
+15:06:56 ERROR:root_logger	Gave up on Mann Co. Supply Crate #26
+15:07:00 ERROR:root_logger	'lowest_price'
+15:07:00 ERROR:root_logger	Gave up on Mann Co. Supply Crate #29
+15:07:05 ERROR:root_logger	'lowest_price'
+15:07:05 ERROR:root_logger	Gave up on Mann Co. Supply Crate #34
+15:07:08 ERROR:root_logger	'lowest_price'
+15:07:08 ERROR:root_logger	Gave up on Mann Co. Supply Crate #37
+15:07:12 ERROR:root_logger	'lowest_price'
+15:07:12 ERROR:root_logger	Gave up on Mann Co. Supply Crate #45
+15:07:16 ERROR:root_logger	'lowest_price'
+15:07:16 ERROR:root_logger	Gave up on Mann Co. Supply Crate #47
+15:07:20 ERROR:root_logger	'lowest_price'
+15:07:20 ERROR:root_logger	Gave up on Mann Co. Supply Crate #55
+15:07:24 ERROR:root_logger	'lowest_price'
+15:07:24 ERROR:root_logger	Gave up on Mann Co. Supply Crate #56
+15:07:27 ERROR:root_logger	'lowest_price'
+15:07:27 ERROR:root_logger	Gave up on Mann Co. Supply Crate #57
+15:07:31 ERROR:root_logger	'lowest_price'
+15:07:31 ERROR:root_logger	Gave up on Mann Co. Supply Crate #59
+15:07:35 ERROR:root_logger	'lowest_price'
+15:07:35 ERROR:root_logger	Gave up on Mann Co. Supply Crate #71
+15:07:39 ERROR:root_logger	'lowest_price'
+15:07:39 ERROR:root_logger	Gave up on Mann Co. Supply Crate #75
+15:07:43 ERROR:root_logger	'lowest_price'
+15:07:43 ERROR:root_logger	Gave up on Red Summer 2013 Cooler #62
+15:07:50 ERROR:root_logger	'lowest_price'
+15:07:56 ERROR:root_logger	'lowest_price'
+15:07:56 ERROR:root_logger	Gave up on Summer Appetizer Crate #61
+15:08:00 ERROR:root_logger	'lowest_price'
+15:08:00 ERROR:root_logger	Gave up on Voodoo-Cursed Bag Of Quicklime
+15:08:04 ERROR:root_logger	'lowest_price'
+15:08:04 ERROR:root_logger	Gave up on Voodoo-Cursed Nail
+15:08:08 ERROR:root_logger	'lowest_price'
+15:08:08 ERROR:root_logger	Gave up on Voodoo-Cursed Novelty Bass
+15:08:11 ERROR:root_logger	'lowest_price'
+15:08:11 ERROR:root_logger	Gave up on Voodoo-Cursed Old Boot
+15:08:15 ERROR:root_logger	'lowest_price'
+15:08:15 ERROR:root_logger	Gave up on Voodoo-Cursed Robot Arm
+15:08:19 ERROR:root_logger	'lowest_price'
+15:08:19 ERROR:root_logger	Gave up on Voodoo-Cursed Skeleton
+15:08:22 ERROR:root_logger	'lowest_price'
+15:08:22 ERROR:root_logger	Gave up on Voodoo-Cursed Sticky-Bomb
+15:08:26 ERROR:root_logger	'lowest_price'
+15:08:26 ERROR:root_logger	Gave up on Yellow Summer 2013 Cooler #64
+15:08:30 ERROR:root_logger	'lowest_price'
+15:08:30 ERROR:root_logger	Gave up on Bat Outta Hell
+15:08:34 ERROR:root_logger	'lowest_price'
+15:08:34 ERROR:root_logger	Gave up on Disciplinary Action (Non-Craftable)
+15:08:37 ERROR:root_logger	'lowest_price'
+15:08:37 ERROR:root_logger	Gave up on Dragon's Fury
+15:08:41 ERROR:root_logger	'lowest_price'
+15:08:41 ERROR:root_logger	Gave up on Gas Passer
+15:08:45 ERROR:root_logger	'lowest_price'
+15:08:45 ERROR:root_logger	Gave up on Hot Hand
+15:08:48 ERROR:root_logger	'lowest_price'
+15:08:48 ERROR:root_logger	Gave up on L'Etranger (Non-Craftable)
+15:08:53 ERROR:root_logger	'lowest_price'
+15:08:53 ERROR:root_logger	Gave up on Mann Co. Supply Crate #27
+15:08:56 ERROR:root_logger	'lowest_price'
+15:08:56 ERROR:root_logger	Gave up on Power Up Canteen
+15:09:10 ERROR:root_logger	'lowest_price'
+15:09:10 ERROR:root_logger	Gave up on Rocket Jumper
+15:09:14 ERROR:root_logger	'lowest_price'
+15:09:14 ERROR:root_logger	Gave up on Second Banana
+15:09:18 ERROR:root_logger	'lowest_price'
+15:09:18 ERROR:root_logger	Gave up on Sticky Jumper
+15:09:21 ERROR:root_logger	'lowest_price'
+15:09:21 ERROR:root_logger	Gave up on Thermal Thruster
+15:09:25 ERROR:root_logger	'lowest_price'
+15:09:28 ERROR:root_logger	'lowest_price'
+15:09:28 ERROR:root_logger	Gave up on Air Strike (Non-Craftable)
+15:09:32 ERROR:root_logger	'lowest_price'
+15:09:32 ERROR:root_logger	Gave up on Ali Baba's Wee Booties (Non-Craftable)
+15:09:36 ERROR:root_logger	'lowest_price'
+15:09:36 ERROR:root_logger	Gave up on Amputator (Non-Craftable)
+15:09:39 ERROR:root_logger	'lowest_price'
+15:09:39 ERROR:root_logger	Gave up on Aqua Summer 2013 Cooler #66
+15:09:43 ERROR:root_logger	'lowest_price'
+15:09:43 ERROR:root_logger	Gave up on Axtinguisher (Non-Craftable)
+15:09:46 ERROR:root_logger	'lowest_price'
+15:09:46 ERROR:root_logger	Gave up on B.A.S.E. Jumper (Non-Craftable)
+15:09:50 ERROR:root_logger	'lowest_price'
+15:09:50 ERROR:root_logger	Gave up on Back Scatter (Non-Craftable)
+15:09:54 ERROR:root_logger	'lowest_price'
+15:09:54 ERROR:root_logger	Gave up on Backburner (Non-Craftable)
+15:09:57 ERROR:root_logger	'lowest_price'
+15:09:57 ERROR:root_logger	Gave up on Bat Outta Hell (Non-Craftable)
+15:10:01 ERROR:root_logger	'lowest_price'
+15:10:01 ERROR:root_logger	Gave up on Battalion's Backup (Non-Craftable)
+15:10:05 ERROR:root_logger	'lowest_price'
+15:10:05 ERROR:root_logger	Gave up on Bazaar Bargain (Non-Craftable)
+15:10:09 ERROR:root_logger	'lowest_price'
+15:10:09 ERROR:root_logger	Gave up on Beggar's Bazooka (Non-Craftable)
+15:10:13 ERROR:root_logger	'lowest_price'
+15:10:13 ERROR:root_logger	Gave up on Big Earner (Non-Craftable)
+15:10:16 ERROR:root_logger	'lowest_price'
+15:10:16 ERROR:root_logger	Gave up on Black Summer 2013 Cooler #69
+15:10:20 ERROR:root_logger	'lowest_price'
+15:10:20 ERROR:root_logger	Gave up on Blutsauger (Non-Craftable)
+15:10:24 ERROR:root_logger	'lowest_price'
+15:10:24 ERROR:root_logger	Gave up on Bonk! Atomic Punch (Non-Craftable)
+15:10:28 ERROR:root_logger	'lowest_price'
+15:10:28 ERROR:root_logger	Gave up on Bootlegger (Non-Craftable)
+15:10:31 ERROR:root_logger	'lowest_price'
+15:10:31 ERROR:root_logger	Gave up on Boston Basher (Non-Craftable)
+15:10:36 ERROR:root_logger	'lowest_price'
+15:10:36 ERROR:root_logger	Gave up on Buffalo Steak Sandvich (Non-Craftable)
+15:10:39 ERROR:root_logger	'lowest_price'
+15:10:39 ERROR:root_logger	Gave up on Candy Cane (Non-Craftable)
+15:10:43 ERROR:root_logger	'lowest_price'
+15:10:43 ERROR:root_logger	Gave up on Claidheamh Mòr (Non-Craftable)
+15:10:47 ERROR:root_logger	'lowest_price'
+15:10:47 ERROR:root_logger	Gave up on Classic (Non-Craftable)
+15:10:50 ERROR:root_logger	'lowest_price'
+15:10:50 ERROR:root_logger	Gave up on Cleaner's Carbine (Non-Craftable)
+15:10:54 ERROR:root_logger	'lowest_price'
+15:10:54 ERROR:root_logger	Gave up on Concheror (Non-Craftable)
+15:10:57 ERROR:root_logger	'lowest_price'
+15:10:57 ERROR:root_logger	Gave up on Conniver's Kunai (Non-Craftable)
+15:11:01 ERROR:root_logger	'lowest_price'
+15:11:01 ERROR:root_logger	Gave up on Cozy Camper (Non-Craftable)
+15:11:05 ERROR:root_logger	'lowest_price'
+15:11:05 ERROR:root_logger	Gave up on Crit-a-Cola (Non-Craftable)
+15:11:08 ERROR:root_logger	'lowest_price'
+15:11:08 ERROR:root_logger	Gave up on Dead Ringer (Non-Craftable)
+15:11:13 ERROR:root_logger	'lowest_price'
+15:11:13 ERROR:root_logger	Gave up on Detonator (Non-Craftable)
+15:11:17 ERROR:root_logger	'lowest_price'
+15:11:17 ERROR:root_logger	Gave up on Diamondback (Non-Craftable)
+15:11:20 ERROR:root_logger	'lowest_price'
+15:11:20 ERROR:root_logger	Gave up on Enforcer (Non-Craftable)
+15:11:24 ERROR:root_logger	'lowest_price'
+15:11:24 ERROR:root_logger	Gave up on Equalizer (Non-Craftable)
+15:11:28 ERROR:root_logger	'lowest_price'
+15:11:28 ERROR:root_logger	Gave up on Eyelander (Non-Craftable)
+15:11:32 ERROR:root_logger	'lowest_price'
+15:11:32 ERROR:root_logger	Gave up on Family Business (Non-Craftable)
+15:11:36 ERROR:root_logger	'lowest_price'
+15:11:36 ERROR:root_logger	Gave up on Fan O'War (Non-Craftable)
+15:11:40 ERROR:root_logger	'lowest_price'
+15:11:40 ERROR:root_logger	Gave up on Fists of Steel (Non-Craftable)
+15:11:44 ERROR:root_logger	'lowest_price'
+15:11:44 ERROR:root_logger	Gave up on Flare Gun (Non-Craftable)
+15:11:47 ERROR:root_logger	'lowest_price'
+15:11:47 ERROR:root_logger	Gave up on Flying Guillotine (Non-Craftable)
+15:11:51 ERROR:root_logger	'lowest_price'
+15:11:51 ERROR:root_logger	Gave up on Frontier Justice (Non-Craftable)
+15:11:55 ERROR:root_logger	'lowest_price'
+15:11:55 ERROR:root_logger	Gave up on Giftapult (Non-Craftable)
+15:12:00 ERROR:root_logger	'lowest_price'
+15:12:00 ERROR:root_logger	Gave up on Gloves of Running Urgently (Non-Craftable)
+15:12:04 ERROR:root_logger	'lowest_price'
+15:12:04 ERROR:root_logger	Gave up on Half-Zatoichi (Non-Craftable)
+15:12:08 ERROR:root_logger	'lowest_price'
+15:12:08 ERROR:root_logger	Gave up on Holiday Punch (Non-Craftable)
+15:12:13 ERROR:root_logger	'lowest_price'
+15:12:13 ERROR:root_logger	Gave up on Holy Mackerel (Non-Craftable)
+15:12:17 ERROR:root_logger	'lowest_price'
+15:12:17 ERROR:root_logger	Gave up on Homewrecker (Non-Craftable)
+15:12:20 ERROR:root_logger	'lowest_price'
+15:12:20 ERROR:root_logger	Gave up on Huntsman (Non-Craftable)
+15:12:24 ERROR:root_logger	'lowest_price'
+15:12:24 ERROR:root_logger	Gave up on Iron Bomber (Non-Craftable)
+15:12:28 ERROR:root_logger	'lowest_price'
+15:12:28 ERROR:root_logger	Gave up on Jag (Non-Craftable)
+15:12:32 ERROR:root_logger	'lowest_price'
+15:12:32 ERROR:root_logger	Gave up on Manmelter (Non-Craftable)
+15:12:35 ERROR:root_logger	'lowest_price'
+15:12:35 ERROR:root_logger	Gave up on Mann Co. Supply Crate #38
+15:12:39 ERROR:root_logger	'lowest_price'
+15:12:39 ERROR:root_logger	Gave up on Mann Co. Supply Crate #44
+15:12:44 ERROR:root_logger	'lowest_price'
+15:12:44 ERROR:root_logger	Gave up on Mann Co. Supply Munition #103
+15:12:48 ERROR:root_logger	'lowest_price'
+15:12:48 ERROR:root_logger	Gave up on Natascha (Non-Craftable)
+15:12:52 ERROR:root_logger	'lowest_price'
+15:12:52 ERROR:root_logger	Gave up on Panic Attack (Non-Craftable)
+15:12:56 ERROR:root_logger	'lowest_price'
+15:12:56 ERROR:root_logger	Gave up on Phlogistinator (Non-Craftable)
+15:12:59 ERROR:root_logger	'lowest_price'
+15:12:59 ERROR:root_logger	Gave up on Pretty Boy's Pocket Pistol (Non-Craftable)
+15:13:03 ERROR:root_logger	'lowest_price'
+15:13:03 ERROR:root_logger	Gave up on Quick-Fix (Non-Craftable)
+15:13:07 ERROR:root_logger	'lowest_price'
+15:13:07 ERROR:root_logger	Gave up on Red-Tape Recorder (Non-Craftable)
+15:13:11 ERROR:root_logger	'lowest_price'
+15:13:11 ERROR:root_logger	Gave up on Rescue Ranger (Non-Craftable)
+15:13:14 ERROR:root_logger	'lowest_price'
+15:13:14 ERROR:root_logger	Gave up on Sandman (Non-Craftable)
+15:13:18 ERROR:root_logger	'lowest_price'
+15:13:18 ERROR:root_logger	Gave up on Scottish Resistance (Non-Craftable)
+15:13:22 ERROR:root_logger	'lowest_price'
+15:13:22 ERROR:root_logger	Gave up on Scrap Metal
+15:13:25 ERROR:root_logger	'lowest_price'
+15:13:25 ERROR:root_logger	Gave up on Shahanshah (Non-Craftable)
+15:13:29 ERROR:root_logger	'lowest_price'
+15:13:29 ERROR:root_logger	Gave up on Soda Popper (Non-Craftable)
+15:13:33 ERROR:root_logger	'lowest_price'
+15:13:33 ERROR:root_logger	Gave up on Southern Hospitality (Non-Craftable)
+15:13:37 ERROR:root_logger	'lowest_price'
+15:13:37 ERROR:root_logger	Gave up on Splendid Screen (Non-Craftable)
+15:13:41 ERROR:root_logger	'lowest_price'
+15:13:41 ERROR:root_logger	Gave up on Spooky Crate #74
+15:13:45 ERROR:root_logger	'lowest_price'
+15:13:45 ERROR:root_logger	Gave up on Third Degree (Non-Craftable)
+15:13:49 ERROR:root_logger	'lowest_price'
+15:13:49 ERROR:root_logger	Gave up on Tide Turner (Non-Craftable)
+15:13:52 ERROR:root_logger	'lowest_price'
+15:13:52 ERROR:root_logger	Gave up on Ubersaw (Non-Craftable)
+15:13:56 ERROR:root_logger	'lowest_price'
+15:13:56 ERROR:root_logger	Gave up on Ullapool Caber (Non-Craftable)
+15:14:00 ERROR:root_logger	'lowest_price'
+15:14:00 ERROR:root_logger	Gave up on Warrior's Spirit (Non-Craftable)
+15:14:04 ERROR:root_logger	'lowest_price'
+15:14:04 ERROR:root_logger	Gave up on Winger (Non-Craftable)
+15:14:08 ERROR:root_logger	'lowest_price'
+15:14:08 ERROR:root_logger	Gave up on Wrap Assassin (Non-Craftable)
+15:14:12 ERROR:root_logger	'lowest_price'
+15:14:12 ERROR:root_logger	Gave up on Class Token - Demoman
+15:14:16 ERROR:root_logger	'lowest_price'
+15:14:16 ERROR:root_logger	Gave up on Class Token - Engineer
+15:14:19 ERROR:root_logger	'lowest_price'
+15:14:19 ERROR:root_logger	Gave up on Class Token - Heavy
+15:14:23 ERROR:root_logger	'lowest_price'
+15:14:23 ERROR:root_logger	Gave up on Class Token - Medic
+15:14:27 ERROR:root_logger	'lowest_price'
+15:14:27 ERROR:root_logger	Gave up on Class Token - Pyro
+15:14:30 ERROR:root_logger	'lowest_price'
+15:14:30 ERROR:root_logger	Gave up on Class Token - Scout
+15:14:34 ERROR:root_logger	'lowest_price'
+15:14:34 ERROR:root_logger	Gave up on Class Token - Sniper
+15:14:38 ERROR:root_logger	'lowest_price'
+15:14:38 ERROR:root_logger	Gave up on Class Token - Soldier
+15:14:42 ERROR:root_logger	'lowest_price'
+15:14:42 ERROR:root_logger	Gave up on Class Token - Spy
+15:14:45 ERROR:root_logger	'lowest_price'
+15:14:45 ERROR:root_logger	Gave up on Slot Token - Melee
+15:14:49 ERROR:root_logger	'lowest_price'
+15:14:49 ERROR:root_logger	Gave up on Slot Token - PDA2
+15:14:53 ERROR:root_logger	'lowest_price'
+15:14:53 ERROR:root_logger	Gave up on Slot Token - Primary
+15:14:56 ERROR:root_logger	'lowest_price'
+15:14:56 ERROR:root_logger	Gave up on Slot Token - Secondary
+15:15:00 ERROR:root_logger	'lowest_price'
+15:15:00 ERROR:root_logger	Gave up on Ambassador (Non-Craftable)
+15:15:05 ERROR:root_logger	'lowest_price'
+15:15:05 ERROR:root_logger	Gave up on Atomizer (Non-Craftable)
+15:15:08 ERROR:root_logger	'lowest_price'
+15:15:08 ERROR:root_logger	Gave up on Baby Face's Blaster (Non-Craftable)
+15:15:12 ERROR:root_logger	'lowest_price'
+15:15:12 ERROR:root_logger	Gave up on Back Scratcher (Non-Craftable)
+15:15:16 ERROR:root_logger	'lowest_price'
+15:15:16 ERROR:root_logger	Gave up on Black Box (Non-Craftable)
+15:15:20 ERROR:root_logger	'lowest_price'
+15:15:20 ERROR:root_logger	Gave up on Brass Beast (Non-Craftable)
+15:15:23 ERROR:root_logger	'lowest_price'
+15:15:23 ERROR:root_logger	Gave up on Buff Banner (Non-Craftable)
+15:15:27 ERROR:root_logger	'lowest_price'
+15:15:27 ERROR:root_logger	Gave up on Bushwacka (Non-Craftable)
+15:15:31 ERROR:root_logger	'lowest_price'
+15:15:31 ERROR:root_logger	Gave up on Chargin' Targe (Non-Craftable)
+15:15:35 ERROR:root_logger	'lowest_price'
+15:15:35 ERROR:root_logger	Gave up on Cloak and Dagger (Non-Craftable)
+15:15:38 ERROR:root_logger	'lowest_price'
+15:15:38 ERROR:root_logger	Gave up on Cow Mangler 5000 (Non-Craftable)
+15:15:42 ERROR:root_logger	'lowest_price'
+15:15:42 ERROR:root_logger	Gave up on Dalokohs Bar (Non-Craftable)
+15:15:46 ERROR:root_logger	'lowest_price'
+15:15:46 ERROR:root_logger	Gave up on Darwin's Danger Shield (Non-Craftable)
+15:15:52 ERROR:root_logger	'lowest_price'
+15:15:52 ERROR:root_logger	Gave up on Degreaser (Non-Craftable)
+15:15:56 ERROR:root_logger	'lowest_price'
+15:15:56 ERROR:root_logger	Gave up on Direct Hit (Non-Craftable)
+15:16:00 ERROR:root_logger	'lowest_price'
+15:16:00 ERROR:root_logger	Gave up on Escape Plan (Non-Craftable)
+15:16:03 ERROR:root_logger	'lowest_price'
+15:16:03 ERROR:root_logger	Gave up on Eureka Effect (Non-Craftable)
+15:16:07 ERROR:root_logger	'lowest_price'
+15:16:07 ERROR:root_logger	Gave up on Eviction Notice (Non-Craftable)
+15:16:11 ERROR:root_logger	'lowest_price'
+15:16:11 ERROR:root_logger	Gave up on Force-A-Nature (Non-Craftable)
+15:16:14 ERROR:root_logger	'lowest_price'
+15:16:14 ERROR:root_logger	Gave up on Gunboats (Non-Craftable)
+15:16:15 INFO:root_logger	Time passed - 695.7401325702667
+15:16:15 INFO:root_logger	Time passed - 695.7401325702667
+15:16:15 INFO:root_logger	Counter = 5
+15:16:51 INFO:root_logger	Starting script...
+15:17:00 INFO:root_logger	98.172.142.99:8080
+15:17:00 INFO:root_logger	63.249.67.70:53281
+15:17:00 INFO:root_logger	24.248.207.7:53281
+15:17:00 INFO:root_logger	45.76.63.153:8118
+15:17:00 INFO:root_logger	157.230.58.241:3128
+15:17:00 INFO:root_logger	167.99.226.187:3128
+15:17:00 INFO:root_logger	52.13.171.28:80
+15:17:00 INFO:root_logger	23.92.29.141:80
+15:17:00 INFO:root_logger	74.213.63.78:45858
+15:17:00 INFO:root_logger	134.209.175.199:3128
+15:17:00 INFO:root_logger	35.246.148.167:80
+15:17:00 INFO:root_logger	54.176.202.142:80
+15:17:00 INFO:root_logger	32.115.161.78:44042
+15:17:01 INFO:root_logger	198.143.183.78:443
+15:17:01 INFO:root_logger	159.65.164.58:80
+15:17:01 INFO:root_logger	162.144.220.192:80
+15:17:01 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Server Error',)))
+15:17:03 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Server Error',)))
+15:17:17 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Server Error',)))
+15:17:40 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000222D35F3518>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond',)))
+15:17:44 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Server Error',)))
+15:17:46 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 503 Too many open connections',)))
+15:17:49 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 504 Connection failed',)))
+15:18:01 ERROR:root_logger	Expecting value: line 1 column 1 (char 0)
+15:18:03 ERROR:root_logger	'lowest_price'
+15:18:03 ERROR:root_logger	Gave up on Mann Co. Supply Crate #43
+15:18:06 ERROR:root_logger	'lowest_price'
+15:18:06 ERROR:root_logger	Gave up on Mann Co. Supply Crate #49
+15:18:09 ERROR:root_logger	'lowest_price'
+15:18:09 ERROR:root_logger	Gave up on Mann Co. Supply Crate #54
+15:18:12 ERROR:root_logger	'lowest_price'
+15:18:12 ERROR:root_logger	Gave up on Mann Co. Supply Munition #84
+15:18:15 ERROR:root_logger	'lowest_price'
+15:18:15 ERROR:root_logger	Gave up on Mann Co. Supply Munition #85
+15:18:18 ERROR:root_logger	'lowest_price'
+15:18:18 ERROR:root_logger	Gave up on Mann Co. Supply Munition #90
+15:18:21 ERROR:root_logger	'lowest_price'
+15:18:21 ERROR:root_logger	Gave up on Mann Co. Supply Munition #91
+15:18:22 INFO:root_logger	Time passed - 80.91152501106262
+15:18:22 INFO:root_logger	Time passed - 80.91152501106262
+15:18:22 INFO:root_logger	Counter = 0
+15:18:45 INFO:root_logger	Starting script...
+15:18:55 INFO:root_logger	98.172.142.99:8080
+15:18:55 INFO:root_logger	63.249.67.70:53281
+15:18:55 INFO:root_logger	24.248.207.7:53281
+15:18:55 INFO:root_logger	45.76.63.153:8118
+15:18:55 INFO:root_logger	157.230.58.241:3128
+15:18:55 INFO:root_logger	167.99.226.187:3128
+15:18:55 INFO:root_logger	52.13.171.28:80
+15:18:55 INFO:root_logger	23.92.29.141:80
+15:18:55 INFO:root_logger	74.213.63.78:45858
+15:18:55 INFO:root_logger	134.209.175.199:3128
+15:18:55 INFO:root_logger	35.246.148.167:80
+15:18:55 INFO:root_logger	54.176.202.142:80
+15:18:55 INFO:root_logger	32.115.161.78:44042
+15:18:55 INFO:root_logger	198.143.183.78:443
+15:18:55 INFO:root_logger	159.65.164.58:80
+15:18:55 INFO:root_logger	162.144.220.192:80
+15:19:16 ERROR:root_logger	HTTPSConnectionPool(host='steamcommunity.com', port=443): Max retries exceeded with url: /market/priceoverview/?country=US&currency=1&appid=440&market_hash_name=Mann%20Co.%20Supply%20Crate%20 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000002B7ED993080>: Failed to establish a new connection: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond',)))
+15:19:30 ERROR:root_logger	'lowest_price'
+15:19:30 ERROR:root_logger	Gave up on Mann Co. Supply Crate #43
+15:19:30 ERROR:root_logger	Could not process parameters
+15:19:33 DEBUG:root_logger	Failed to get response. Retrying. item = Mann Co. Supply Crate #49
+15:19:36 ERROR:root_logger	'lowest_price'
+15:19:36 ERROR:root_logger	Gave up on Mann Co. Supply Crate #49
+15:19:36 ERROR:root_logger	Could not process parameters
+15:19:38 INFO:root_logger	Time passed - 40.243308544158936
+15:19:38 INFO:root_logger	Time passed - 40.243308544158936
+15:19:38 INFO:root_logger	Counter = 0
+15:21:25 INFO:root_logger	Starting script...
+15:21:34 INFO:root_logger	98.172.142.99:8080
+15:21:34 INFO:root_logger	63.249.67.70:53281
+15:21:34 INFO:root_logger	24.248.207.7:53281
+15:21:34 INFO:root_logger	45.76.63.153:8118
+15:21:34 INFO:root_logger	157.230.58.241:3128
+15:21:34 INFO:root_logger	167.99.226.187:3128
+15:21:34 INFO:root_logger	52.13.171.28:80
+15:21:34 INFO:root_logger	23.92.29.141:80
+15:21:34 INFO:root_logger	74.213.63.78:45858
+15:21:34 INFO:root_logger	134.209.175.199:3128
+15:21:34 INFO:root_logger	35.246.148.167:80
+15:21:34 INFO:root_logger	54.176.202.142:80
+15:21:34 INFO:root_logger	32.115.161.78:44042
+15:21:34 INFO:root_logger	198.143.183.78:443
+15:21:34 INFO:root_logger	159.65.164.58:80
+15:21:34 INFO:root_logger	162.144.220.192:80
+15:21:41 ERROR:root_logger	'lowest_price'
+15:21:41 ERROR:root_logger	Gave up on Mann Co. Supply Crate #43
+15:21:46 ERROR:root_logger	'lowest_price'
+15:21:46 ERROR:root_logger	Gave up on Mann Co. Supply Crate #49
+15:21:52 ERROR:root_logger	'lowest_price'
+15:21:52 ERROR:root_logger	Gave up on Mann Co. Supply Crate #54
+15:21:56 ERROR:root_logger	'lowest_price'
+15:21:56 ERROR:root_logger	Gave up on Mann Co. Supply Munition #84
+15:22:00 ERROR:root_logger	'lowest_price'
+15:22:00 ERROR:root_logger	Gave up on Mann Co. Supply Munition #85
+15:22:04 ERROR:root_logger	'lowest_price'
+15:22:04 ERROR:root_logger	Gave up on Mann Co. Supply Munition #90
+15:22:08 ERROR:root_logger	'lowest_price'
+15:22:08 ERROR:root_logger	Gave up on Mann Co. Supply Munition #91
+15:22:12 ERROR:root_logger	'lowest_price'
+15:22:12 ERROR:root_logger	Gave up on Mann Co. Supply Munition #92
+15:22:16 ERROR:root_logger	'lowest_price'
+15:22:16 ERROR:root_logger	Gave up on Naughty Winter Crate 2014 #88
+15:22:19 ERROR:root_logger	'lowest_price'
+15:22:19 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:23 ERROR:root_logger	'lowest_price'
+15:22:23 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:27 ERROR:root_logger	'lowest_price'
+15:22:27 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:31 ERROR:root_logger	'lowest_price'
+15:22:31 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:34 ERROR:root_logger	'lowest_price'
+15:22:34 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:39 ERROR:root_logger	'lowest_price'
+15:22:39 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:43 ERROR:root_logger	'lowest_price'
+15:22:43 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:47 ERROR:root_logger	'lowest_price'
+15:22:47 ERROR:root_logger	1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '126 WHERE name = 'Blue Moon Cosmetic Case #119'' at line 1
+15:22:51 INFO:root_logger	Time passed - 75.72363877296448
+15:22:51 INFO:root_logger	Time passed - 75.72363877296448
+15:22:51 INFO:root_logger	Counter = 0
