@@ -63,6 +63,8 @@ cursor = connection.cursor(buffered=True)
 
 proxy_page = 1
 
+proxy_url = 'https://us-proxy.org'
+
 init_time = time()
 
 s = None
@@ -76,7 +78,7 @@ def save_lists():
 
 
 def get_proxies():
-    global proxy_page
+    global proxy_page, proxy_url
 
     options = webdriver.FirefoxOptions()
     options.add_argument('--headless')
@@ -85,7 +87,7 @@ def get_proxies():
     
     while True:
         try:
-            driver.get('https://us-proxy.org')
+            driver.get(proxy_url)
             break
         except Exception as e:
             print(e)
@@ -105,7 +107,21 @@ def get_proxies():
         next_button = driver.find_element_by_css_selector('#proxylisttable_next > a:nth-child(1)')
         sleep(0.5)
         driver.execute_script('"window.scrollTo(0, document.body.scrollHeight);"')
-        next_button.click()
+        try:
+            next_button.click()
+        except:
+            logger.debug('Changing proxy sites. Currently: {}'.format(proxy_url))
+            print('Changing proxy sites. Currently: {}'.format(proxy_url))
+            if proxy_url == 'https://us-proxy.org':
+                proxy_url = 'https://free-proxy-list.net/uk-proxy.html'
+            elif proxy_url == 'https://free-proxy-list.net/uk-proxy.html':
+                proxy_url = 'https://free-proxy-list.net/anonymous-proxy.html'
+            else:
+                proxy_url = 'https://us-proxy.org'
+            
+            proxy_page = 0
+            
+            return
         current_page += 1
 
     proxy_page += 1
@@ -142,7 +158,7 @@ def get_proxy_dict(current_proxy):
 
 def refresh_database():
     global items
-    cursor.execute('SELECT name FROM `tf2 metal vs steam market prices` WHERE realPriceTimeUpdated IS NULL ORDER BY metalPrice ASC')
+    cursor.execute('SELECT name FROM `tf2 metal vs steam market prices` ORDER BY realPriceTimeUpdated ASC')
     items.clear()
     items = [item[0] for item in cursor.fetchall()]
 
@@ -222,8 +238,6 @@ def main(delay):
                         try:
                             lowest_price = (json['lowest_price'])[1:]
                         except KeyError as e:
-                            print(e)
-                            logger.error(e)
                             try:
                                 lowest_price = (json['median_price'])[1:]
                             except:
